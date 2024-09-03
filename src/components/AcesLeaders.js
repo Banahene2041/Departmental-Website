@@ -7,7 +7,7 @@ const AcesLeaders = () => {
       {acesLeaders.map((item, index) => {
         const { position, image, name, year } = item
         return (
-          <div key={index} className='.aces-leaders p-4 border rounded-lg'>
+          <div key={index} className='aces-leaders p-4 border rounded-lg'>
             <img
               src={image}
               alt={name}
