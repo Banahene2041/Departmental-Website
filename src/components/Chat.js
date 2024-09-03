@@ -13,10 +13,10 @@ const Chat = () => {
         />
       </div>
       <div className='w-[100%] h-[30vh] lg:h-full md:h-full lg:w-[40%]'>
-        <h4 className='text-2xl lg:text-[3.5rem] font-medium lg:font-semibold md:font-semibold'>
+        <h4 className='text-2xl ml-2 lg:ml-0 lg:text-[3.5rem] font-medium lg:font-semibold md:font-semibold'>
           Welcome,
         </h4>
-        <p className='uppercase text-lg mt-1 lg:mt-6 font-medium lg:text-3xl lg:font-medium'>
+        <p className='uppercase ml-5 lg:ml-0 text-lg mt-1 lg:mt-6 font-medium lg:text-3xl lg:font-medium'>
           fellow technologian
         </p>
         <p className='flex lg:flex-col justify-center gap-4 mt-8 lg:mt-11'>
