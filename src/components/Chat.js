@@ -8,7 +8,7 @@ const Chat = () => {
       <div className='w-[100%] h-[40vh] lg:h-full md:h-full lg:w-[60%]'>
         <img
           src={assets.welcome_icon}
-          className='w-[100%] lg:w-[100%] lg:h-[70vh] h-full'
+          className='w-[100%] object-cover lg:w-[100%] lg:h-[70vh] h-full'
           alt=''
         />
       </div>
