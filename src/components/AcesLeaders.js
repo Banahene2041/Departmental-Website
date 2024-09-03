@@ -9,7 +9,7 @@ const AcesLeaders = () => {
         return (
           <div
             key={index}
-            className='p-4 border rounded-lg bg-[#f8f7f7] text-lg lg:text-3xl text-[#080872] md:text-2xl'
+            className='p-4 aces-leaders border rounded-lg text-lg lg:text-3xl text-[#080872] md:text-2xl'
           >
             <img src={image} alt={name} className='w-full h-auto rounded-md' />
             <h4 className='mt-2 font-semibold'>{position}</h4>
