@@ -11,7 +11,7 @@ const AcesLeaders = () => {
             <img
               src={image}
               alt={name}
-              className='leaders w-full md:h-[55vh] lg:h-[60vh] object-cover rounded-md'
+              className='leaders w-full md:h-[50vh] lg:h-[55vh] object-cover rounded-md'
             />
             <h4 className='mt-2 font-semibold'>{position}</h4>
             <p className='text-sm text-gray-600'>{year}</p>
