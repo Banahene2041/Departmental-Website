@@ -9,6 +9,7 @@ import NotFound from "./screens/NotFound"
 import Chatbot from "./screens/Chatbot"
 import AssociationLeadership from "./screens/AssociationLeadershipPage"
 import Chat from "./screens/Chat"
+import TeslaStory from "./screens/TeslaStory"
 
 const App = () => {
   return (
@@ -20,6 +21,7 @@ const App = () => {
         <Route path='/chatbot' element={<Chatbot />} />
         <Route path='/association' element={<AssociationLeadership />} />
         <Route path='/chat' element={<Chat />} />
+        <Route path='/tesla-story' element={<TeslaStory/>} />
       </Routes>
     </div>
   )
