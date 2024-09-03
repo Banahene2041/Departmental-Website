@@ -28,18 +28,18 @@ const TeslaStory = () => {
           addition in the industry. The system is equipped with 10,000 Nvidia
           H100 GPUs, enabling it to potentially reach a peak performance of 340
           FP64 PFLOPS for technical computing and 39.58 INT8 ExaFLOPS for AI
-          applications. Tesla’s 340 FP64 PFLOPS is higher than 304 FP64 PFLOPS
-          from CINECA’s Leonardo supercomputer, the fourth fastest in the world.
+          applications. Tesla's 340 FP64 PFLOPS is higher than 304 FP64 PFLOPS
+          from CINECA's Leonardo supercomputer, the fourth fastest in the world.
           A significant feature of this new cluster is its focus on bolstering
-          Tesla’s full self-driving (FSD) technology. However, with Nvidia
-          currently facing supply limitations, Tesla’s foresight is evident.
+          Tesla's full self-driving (FSD) technology. However, with Nvidia
+          currently facing supply limitations, Tesla's foresight is evident.
           They have diversified their approach with a strategic investment in a
           proprietary supercomputer named Dojo, which is anticipated to work in
           tandem with the Nvidia H100 GPU cluster. Credit:
           @SawyerMerritt/Twitter Beyond mere hardware, the computational
           infrastructure is set to provide Tesla with an edge in processing vast
           datasets, critical for real-world AI training scenarios. Elon Musk has
-          alluded to the company’s long-term strategy, noting Tesla’s intent to
+          alluded to the company's long-term strategy, noting Tesla's intent to
           direct substantial resources towards AI and FSD training in the
           subsequent years, emphasizing the pivotal role of computing in
           automotive advancements.
