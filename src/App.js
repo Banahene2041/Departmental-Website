@@ -10,6 +10,7 @@ import Chatbot from './screens/Chatbot'
 import AssociationLeadership from './screens/AssociationLeadershipPage'
 import Header from './components/Header'
 import Footer from './components/Footer'
+import Chat from './screens/Chat'
 
 const App = () => {
   return (
@@ -21,6 +22,7 @@ const App = () => {
         <Route path='*' element={<NotFound />} />
         <Route path='/chatbot' element={<Chatbot />} />
         <Route path='/association' element={<AssociationLeadership />} />
+        <Route path='/chat' element={<Chat/>} />
       </Routes>
       <Footer />
     </div>
